@@ -1,0 +1,14 @@
+[
+    {
+        "user_prompt": "You will be given two sentences denoting a premise and a hypothesis respectively. Determine the relationship between the premise and the hypothesis. The possible relationships you can choose from are 'Entail,' 'Contradict,' and 'Neutral.' Only pick one of the options. Do not include any additional words in your answer. Your answer should start with 'ANSWER:'\n\nThe premise is: {premise}\nThe hypothesis is: {hypothesis}"
+    },
+    {
+        "rational_user_prompt": "Now, identify the 'rationales' behind your answer. The rationales are words, phrases or sentences in the original hypothesis that led you to answer with {answer}. Share a list of rationales with one rationale per line. The list should start with 'RATIONALES:'."
+    },
+    {
+        "revised_user_prompt": "Alter the rationales in the original hypothesis so that your answer on the altered hypothesis becomes {complement}. Keep the changes to a minimum. The altered hypothesis should start with 'ALTERED HYPOTHESIS:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given two sentences denoting a premise and a hypothesis respectively. Determine the relationship between the premise and the hypothesis. The possible relationships you can choose from are 'Entail,' 'Contradict,' and 'Neutral.' Only pick one of the options. Do not include any additional words in your answer. Your answer should start with 'ANSWER:'\n\nThe premise is: {premise}\nThe hypothesis is: {revised_scenario}"
+    }
+]

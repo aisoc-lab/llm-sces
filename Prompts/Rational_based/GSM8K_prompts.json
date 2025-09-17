@@ -1,0 +1,14 @@
+[
+    {
+        "user_prompt": "You will be given a math problem. The solution to the problem is an integer. Your task is to provide the solution. Only provide the final answer as an integer. Do not include any additional word or phrase. Your final answer should start with 'FINAL ANSWER:'.\n\nThe math problem is: {question}"
+    },
+    {
+        "rational_user_prompt": "Now, identify the 'rationales' behind your answer. The rationales are words, phrases or sentences in the original problem that led you to answer with {answer}. Share a list of rationales with one rationale per line. The list should start with 'RATIONALES:'."
+    },
+    {
+        "revised_user_prompt": "Alter the rationales in the original problem so that your answer on the altered problem becomes {complement}. Keep the changes to a minimum. The altered problem should start with 'ALTERED PROBLEM:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given a math problem. The solution to the problem is an integer. Your task is to provide the solution. Only provide the final answer as an integer. Do not include any additional word or phrase. Your final answer should start with 'FINAL ANSWER:'.\n\nThe math problem is: {revised_scenario}"
+    }
+]

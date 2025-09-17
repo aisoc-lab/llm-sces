@@ -1,0 +1,14 @@
+[
+    {
+        "user_prompt": "You will be given a decision making scenario followed by a question about the scenario. Answer the question with 'Yes' or 'No.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe scenario is: {scenario}\nThe question is: {question}"
+    },
+    {
+        "rational_user_prompt": "Now, identify the 'rationales' behind your answer. The rationales are words, phrases or sentences in the original scenario that led you to answer with {answer}. Share a list of rationales with one rationale per line. The list should start with 'RATIONALES:'."
+    },
+    {
+        "revised_user_prompt": "Alter the rationales in the original decision making scenario so that your answer on the altered scenario becomes {complement}. Keep the changes to a minimum. The altered scenario should start with 'ALTERED SCENARIO:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given a decision making scenario followed by a question about the scenario. Answer the question with 'Yes' or 'No.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe scenario is: {revised_scenario}\nThe question is: {question}"
+    }
+]

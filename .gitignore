@@ -1,0 +1,35 @@
+# Python cache (ignore everywhere recursively)
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments / build
+.venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Logs and checkpoints
+*.log
+logs/
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and large files
+Datasets/
+*.pt
+*.pth
+*.h5
+*.npz
+
+# OS junk
+.DS_Store
+
+# Results folders
+Unconstraint_*/
+CoT_*/
+Rational_based_*/

@@ -1,0 +1,11 @@
+[
+    {
+        "user_prompt": "You will be given a finance-related news post from X (formerly Twitter). Assess its sentiment and classify it as 'Bearish,' 'Bullish,' or 'Neutral.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe Twitter financial news is: {text}"
+    },
+    {
+        "revised_user_prompt": "Now revise the original post so that the sentiment of the revised post becomes {complement}. Share the revised post. The revised post should start with 'REVISED POST:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given a finance-related news post from X (formerly Twitter). Assess its sentiment and classify it as 'Bearish,' 'Bullish,' or 'Neutral.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe Twitter financial news is: {revised_scenario}"
+    }
+]

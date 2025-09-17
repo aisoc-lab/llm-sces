@@ -1,0 +1,11 @@
+[
+    {
+        "user_prompt": "You will be given a movie review. Assess its sentiment and classify it as 'Positive' or 'Negative.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe movie review is: {sentence}"
+    },
+    {
+        "revised_user_prompt": "Now revise the original review so that the sentiment of the revised review becomes {complement}. Share the revised review. The revised review should start with 'REVISED REVIEW:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given a movie review. Assess its sentiment and classify it as 'Positive' or 'Negative.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe movie review is: {revised_scenario}"
+    }
+]

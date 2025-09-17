@@ -1,0 +1,14 @@
+[
+    {
+        "user_prompt": "You will be given a movie review. Assess its sentiment and classify it as 'Positive' or 'Negative.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe movie review is: {sentence}"
+    },
+    {
+        "rational_user_prompt": "Now, identify the 'rationales' behind your answer. The rationales are words, phrases or sentences in the original review that led you to answer with {answer}. Share a list of rationales with one rationale per line. The list should start with 'RATIONALES:'."
+    },
+    {
+        "revised_user_prompt": "Alter the rationales in the original review so that your answer on the altered review becomes {complement}. Keep the changes to a minimum. The altered review should start with 'ALTERED REVIEW:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given a movie review. Assess its sentiment and classify it as 'Positive' or 'Negative.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe movie review is: {revised_scenario}"
+    }
+]

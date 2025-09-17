@@ -1,0 +1,11 @@
+[
+    {
+        "user_prompt": "You will be given two sentences denoting a premise and a hypothesis respectively. Determine the relationship between the premise and the hypothesis. The possible relationships you can choose from are 'Entail,' 'Contradict,' and 'Neutral.' Only pick one of the options. Think step by step. But make sure that your final answer ('Entail,' 'Contradict,' or 'Neutral') starts with 'FINAL ANSWER:'.\n\nThe premise is: {premise}\nThe hypothesis is: {hypothesis}"
+    },
+    {
+        "revised_user_prompt": "Now revise the original hypothesis so that your answer to the question about its relationship becomes {complement}. Share the revised hypothesis. The revised hypothesis should start with 'REVISED HYPOTHESIS:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given two sentences denoting a premise and a hypothesis respectively. Determine the relationship between the premise and the hypothesis. The possible relationships you can choose from are 'Entail,' 'Contradict,' and 'Neutral.' Only pick one of the options. Think step by step. But make sure that your final answer ('Entail,' 'Contradict,' or 'Neutral') starts with 'FINAL ANSWER:'.\n\nThe premise is: {premise}\nThe hypothesis is: {revised_problem}"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "text": "Given the details provided, should this patient be prioritized to receive this kidney transplant?"
+    },
+    {
+        "id": 2,
+        "text": "Should you go out with her this weekend?"
+    },
+    {
+        "id": 3,
+        "text": "Should the claim be approved?"
+    },
+    {
+        "id": 4,
+        "text": "Given these factors, should the State Department grant this applicant a work visa?"
+    },
+    {
+        "id": 5,
+        "text": "Given the details provided, should the facility grant the defendant security clearance?"
+    },
+    {
+        "id": 6,
+        "text": "Given these competing factors, should the adoption agency approve the applicant to adopt a child?"
+    },
+    {
+        "id": 7,
+        "text": "Should the passport office grant this person's passport?"
+    },
+    {
+        "id": 8,
+        "text": "Given the details provided, should the bank approve this mortgage?"
+    },
+    {
+        "id": 9,
+        "text": "Should the membership committee approve this applicant's request to join the committee?"
+    },
+    {
+        "id": 10,
+        "text": "Given these competing interests, should the licensing board grant the applicant a liquor license for their restaurant?"
+    },
+    {
+        "id": 11,
+        "text": "Should the bank approve the loan request?"
+    },
+    {
+        "id": 12,
+        "text": "Given the details provided, should the moderator approve this comment?"
+    },
+    {
+        "id": 13,
+        "text": "Given the details provided, should the Small Business Center book an appointment for her?"
+    },
+    {
+        "id": 14,
+        "text": "Is this applicant's application strong enough overall to merit one of the few remaining admissions spots?"
+    },
+    {
+        "id": 15,
+        "text": "Given the details provided, should our firm make the applicant a job offer?"
+    },
+    {
+        "id": 16,
+        "text": "Given the details provided, should the professor approve this research study?"
+    },
+    {
+        "id": 17,
+        "text": "Given the details provided, should the recruitment officer approve her enlistment?"
+    },
+    {
+        "id": 18,
+        "text": "Should the festival organizers grant this applicant the backstage pass?"
+    },
+    {
+        "id": 19,
+        "text": "should the counselor seek approval to continue serving this client for another six months?"
+    },
+    {
+        "id": 20,
+        "text": "On balance, does the applicant's overall profile warrant approving her application despite the current income deficit?"
+    },
+    {
+        "id": 21,
+        "text": "Should the award committee select this nominee to receive the Best Documentary award?"
+    },
+    {
+        "id": 22,
+        "text": "Given the details provided, should the store approve a refund?"
+    },
+    {
+        "id": 23,
+        "text": "Given the details provided, should the platform verify and mint the collection?"
+    },
+    {
+        "id": 24,
+        "text": "Given the details provided, should their bank grant an exception to approve a home loan?"
+    },
+    {
+        "id": 25,
+        "text": "Given the details provided, should the case worker grant her welfare benefits and food stamps?"
+    },
+    {
+        "id": 26,
+        "text": "Given these countervailing factors, should US Customs allow this person to enter the country?"
+    },
+    {
+        "id": 27,
+        "text": "Would awarding this student a scholarship be merited?"
+    },
+    {
+        "id": 28,
+        "text": "Should an investor fund this startup?"
+    },
+    {
+        "id": 29,
+        "text": "Given the details provided, should the online retailer ship the valuable item to the customer's home address?"
+    },
+    {
+        "id": 30,
+        "text": "Should the store manager approve this customer's warranty claim?"
+    },
+    {
+        "id": 31,
+        "text": "Should an editor approve publishing the image based on the details provided?"
+    },
+    {
+        "id": 32,
+        "text": "Should the system grant access to the account based on the credentials provided?"
+    },
+    {
+        "id": 33,
+        "text": "Given these competing factors, should the editor accept the manuscript for publication?"
+    },
+    {
+        "id": 34,
+        "text": "Given the details provided, should this new bill design be approved for production?"
+    },
+    {
+        "id": 35,
+        "text": "Given the details provided, should the manager approve the contract?"
+    },
+    {
+        "id": 36,
+        "text": "Given the details provided, should the patent office grant a patent?"
+    },
+    {
+        "id": 37,
+        "text": "Given these competing concerns, should the studio greenlight the first season of the show with this actor in the starring role?"
+    },
+    {
+        "id": 38,
+        "text": "Given these mixed factors, should the bank allow the customer to access their online account?"
+    },
+    {
+        "id": 39,
+        "text": "Given these mixed factors, should the telemarketing company block future calls and messages from the caller?"
+    },
+    {
+        "id": 40,
+        "text": "Given the long positive history but recent concerning activity, should the issuer accept the credit line increase request?"
+    },
+    {
+        "id": 41,
+        "text": "Given the details provided, should the return request be approved and a refund issued?"
+    },
+    {
+        "id": 42,
+        "text": "Given the details provided, should the review board grant her a secret security clearance?"
+    },
+    {
+        "id": 43,
+        "text": "Should the driver complete the delivery by leaving the food at the customer's door?"
+    },
+    {
+        "id": 44,
+        "text": "Given the details provided, should customs allow the traveler to enter the country?"
+    },
+    {
+        "id": 45,
+        "text": "Should the restaurant grant the reservation request?"
+    },
+    {
+        "id": 46,
+        "text": "Given the details provided, should their manager grant her access to the company financial data?"
+    },
+    {
+        "id": 47,
+        "text": "Given these competing factors, should you agree to co-sign a mortgage loan for the applicant?"
+    },
+    {
+        "id": 48,
+        "text": "Should the person decide to pursue a more serious romantic relationship with her and go on a second date?"
+    },
+    {
+        "id": 49,
+        "text": "Should the judge change their component score given the musicality of the program but simpler choreography in parts?"
+    },
+    {
+        "id": 50,
+        "text": "Given these mixed factors, should the bank approve her loan application?"
+    },
+    {
+        "id": 51,
+        "text": "Given the details provided, should the company extend an offer for the development team lead role?"
+    },
+    {
+        "id": 52,
+        "text": "Should the store place a large initial order from this business?"
+    },
+    {
+        "id": 53,
+        "text": "Should the mayor’s office grant the blogger a limited press pass to the State of the City address?"
+    },
+    {
+        "id": 54,
+        "text": "Given the details provided, should the State Department issue her a two week visa?"
+    },
+    {
+        "id": 55,
+        "text": "Given the details provided, should the university offer the candidate a full-tuition scholarship?"
+    },
+    {
+        "id": 56,
+        "text": "Should the landlord approve this tenant's application for the apartment?"
+    },
+    {
+        "id": 57,
+        "text": "Should we permanently suspend the account holder's account?"
+    },
+    {
+        "id": 58,
+        "text": "Weighing these factors, should the union's membership review board approve this membership application?"
+    },
+    {
+        "id": 59,
+        "text": "Given the details provided, should it be allowed to move forward for debate and possible passage?"
+    },
+    {
+        "id": 60,
+        "text": "Given the details provided, should the doctor order a CT scan for the patient?"
+    },
+    {
+        "id": 61,
+        "text": "Given the details provided, should their request for temporary access to the secure network be granted?"
+    },
+    {
+        "id": 62,
+        "text": "Given the details provided, should the journal accept it for publication?"
+    },
+    {
+        "id": 63,
+        "text": "Given the competing factors, should the USPTO grant a patent for this invention?"
+    },
+    {
+        "id": 64,
+        "text": "Given these mixed factors, should the bank approve the loan application?"
+    },
+    {
+        "id": 65,
+        "text": "Given the details provided, should the county grant them the property deed?"
+    },
+    {
+        "id": 66,
+        "text": "Given the circumstances, should the store approve an exchange or refund for the customer?"
+    },
+    {
+        "id": 67,
+        "text": "Given these considerations, should the museum accept the photographer's application, including the nude self-portrait?"
+    },
+    {
+        "id": 68,
+        "text": "Should the restaurant manager accept the catering order?"
+    },
+    {
+        "id": 69,
+        "text": "Should the bank approve the loan application?"
+    },
+    {
+        "id": 70,
+        "text": "Should the permit be issued for this project?"
+    }
+]

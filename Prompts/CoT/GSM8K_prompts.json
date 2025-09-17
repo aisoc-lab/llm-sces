@@ -1,0 +1,11 @@
+[
+    {
+        "user_prompt": "You will be given a math problem. The solution to the problem is an integer. Your task is to provide the solution. Only provide the final answer as an integer. Think step by step. But make sure that your final answer (the integer) starts with 'FINAL ANSWER:'.\n\nThe math problem is: {question}"
+    },
+    {
+        "revised_user_prompt": "Now, revise the math problem so your final answer to the revised problem becomes {complement}. Share the revised problem. The revised problem should start with 'REVISED PROBLEM:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given a math problem. The solution to the problem is an integer. Your task is to provide the solution. Only provide the final answer as an integer. Think step by step. But make sure that your final answer (the integer) starts with 'FINAL ANSWER:'.\n\nThe math problem is: {revised_scenario}"
+    }
+]

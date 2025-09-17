@@ -1,0 +1,14 @@
+[
+    {
+        "user_prompt": "You will be provided data corresponding to a survey respondent. The survey was conducted among US residents in 2018. Please answer the question based on the information provided by selecting from one of the two choices. The data provided is enough to reach an approximate answer. Do not include any additional words. Your answer must start with 'ANSWER:'.\n\nThe respondent data is: {description}\nThe question is: {question}\nThe choices are: {choices}"
+    },
+    {
+        "rational_user_prompt": "Now, identify the 'rationales' behind your answer. The rationales are words, phrases or sentences in the original respondent data that led you to answer with {answer}. Share a list of rationales with one rationale per line. The list should start with 'RATIONALES:'."
+    },
+    {
+        "revised_user_prompt": "Alter the rationales in the original data so that your answer on the altered data becomes {complement}. Keep the changes to a minimum. The altered data should start with 'ALTERED DATA:'."
+    },
+    {
+        "user_prompt_with_history": "You will be provided data corresponding to a survey respondent. The survey was conducted among US residents in 2018. Please answer the question based on the information provided by selecting from one of the two choices. The data provided is enough to reach an approximate answer. Do not include any additional words. Your answer must start with 'ANSWER:'.\n\nThe respondent data is: {revised_scenario}\nThe question is: {question}\nThe choices are: {choices}"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "user_prompt": "You will be given a decision making scenario followed by a question about the scenario. Answer the question with 'Yes' or 'No.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe scenario is: {scenario}\nThe question is: {question}"
+    },
+    {
+        "revised_user_prompt": "Now revise the original scenario such that your answer to the question on the revised scenario becomes {complement}. Share the revised scenario. The revised scenario should start with 'REVISED SCENARIO:'."
+    },
+    {
+        "user_prompt_with_history": "You will be given a decision making scenario followed by a question about the scenario. Answer the question with 'Yes' or 'No.' Do not include any additional words in your answer. Your answer should start with 'ANSWER:'.\n\nThe scenario is: {revised_scenario}\nThe question is: {question}"
+    }
+]
